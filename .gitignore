@@ -1,0 +1,15 @@
+# Jangan upload file sensitif
+.env
+config.py
+
+# Jangan upload file lokal
+__pycache__/
+*.pyc
+*.log
+
+# Jangan upload chromedriver & selenium lokal
+chromedriver.exe
+selenium_whatsapp.py
+
+# Lain-lain
+.DS_Store
